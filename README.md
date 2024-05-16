@@ -2,6 +2,8 @@
 
 This workshop uses similar code to the Week8 workshop, but now you will be integrating tests into the framework.
 
+dev push
+
 ## Installation Instructions
 
 For this task you will need to have the following installed:
