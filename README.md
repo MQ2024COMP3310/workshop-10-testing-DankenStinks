@@ -2,7 +2,7 @@
 
 This workshop uses similar code to the Week8 workshop, but now you will be integrating tests into the framework.
 
-dev push
+ checkin code change
 
 ## Installation Instructions
 
